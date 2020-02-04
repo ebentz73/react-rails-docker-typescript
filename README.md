@@ -1,7 +1,3 @@
-# Rails-React-TypeScript-Docker Example [![CircleCI](https://circleci.com/gh/ohbarye/rails-react-typescript-docker-example/tree/master.svg?style=svg)](https://circleci.com/gh/ohbarye/rails-react-typescript-docker-example/tree/master)
-
-## TL;DR
-
 **Here is an example application with the following modern web technology stacks. With this boilerplate, you can easily start to build your own app.**
 
 - [Ruby](https://www.ruby-lang.org/en/) 2.7.0
@@ -15,7 +11,7 @@
 ## Usage
 
 ```shell
-$ git clone https://github.com/ohbarye/rails-react-typescript-docker-example.git && cd rails-react-typescript-docker-example
+$ git clone https://github.com/ebentz73/react-rails-docker-typescript && cd react-rails-docker-typescript
 
 # Setup
 $ docker-compose run frontend yarn
